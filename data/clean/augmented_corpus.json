@@ -1,0 +1,602 @@
+[
+    {
+        "augmented_en": "Hello, old friend.",
+        "original_en": "Hello voice mail, my old friend.",
+        "augmented_fr": "Bonjour répondeur, vieil ami.",
+        "original_fr": "Bonjour répondeur, mon vieil ami."
+    },
+    {
+        "augmented_en": "People feel overwhelmed.",
+        "original_en": "People are feeling overwhelmed.",
+        "augmented_fr": "Que c'est trop de technologie, trop rapide.",
+        "original_fr": "Que c'est trop de technologie, trop vite."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "(Rires) Je connais les ficelles maintenant, je sais ce que c'est.",
+        "original_fr": "(Rires) Je connais les ficelles maintenant, je sais quels sont les trucs."
+    },
+    {
+        "augmented_en": "These people reach thousands, if not millions, of readers, and it's incredibly important.",
+        "original_en": "These people are reaching thousands, if not millions, of readers, and that's incredibly important.",
+        "augmented_fr": "J'ai aussi un ami, qui a un blog numérique -- sur un PDR, un enregistreur personnel.",
+        "original_fr": "J'ai aussi un ami, qui a un blog sur le numérique -- sur un PDR, un enregistreur personnel."
+    },
+    {
+        "augmented_en": "That's what happened to me.",
+        "original_en": "This is what happened to me.",
+        "augmented_fr": "Je pensais gagner un prix, parce que je n'avais jamais gagné un prix.",
+        "original_fr": "Je me suis dit que j'allais gagner un prix, parce que je n'avais jamais gagné de prix."
+    },
+    {
+        "augmented_en": "I only prepared 15.\"",
+        "original_en": "I only prepared 15.\"",
+        "augmented_fr": "(Applaudissements)",
+        "original_fr": "(Applaudissements)"
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Quel est votre nom?",
+        "original_fr": "Comment vous vous appelez ?"
+    },
+    {
+        "augmented_en": "as in the TED sense?\"",
+        "original_en": "like in the TED sense?\"",
+        "augmented_fr": "Marquer",
+        "original_fr": "Mark"
+    },
+    {
+        "augmented_en": "And finally, you know, become freelance.",
+        "original_en": "And, finally, you know, become freelance.",
+        "augmented_fr": "Mais j'avais quelque chose.",
+        "original_fr": "Mais j'avais quelque chose."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Chris a sa part de responsabilité, parce que les années précédentes, je suppose qu'il doit y avoir eu des orateurs plutôt mauvais à TED.",
+        "original_fr": "Chris a sa part de responsabilité, car les années précédentes j'imagine qu'il y a dû y avoir des speakers plutôt mauvais à TED."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Cette année, Chris nous a envoyé un simulateur de conférence TED.",
+        "original_fr": "Et donc, cette année, Chris nous a envoyé un simulateur de conférence TED."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Je ne sais pas si tu sais, mais le marché du jeu vidéo, j'essaie.\"",
+        "original_fr": "Je ne sais pas si vous êtes au courant, mais le marché du jeu vidéo, J'essaie »."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "(Rires)",
+        "original_fr": "(Rires)"
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Une préférence?",
+        "original_fr": "Une préférence ?"
+    },
+    {
+        "augmented_en": "It's also very cold outside -- less than three degrees",
+        "original_en": "It's also very cold out there -- less than three degrees",
+        "augmented_fr": "(Rires) Mais qui ne le sont pas.",
+        "original_fr": "(Rires) Mais qui n'en sont pas."
+    },
+    {
+        "augmented_en": "And we know what they are.",
+        "original_en": "And we know what they are.",
+        "augmented_fr": "Donc nous sommes un dépôt chimique qui est différent.",
+        "original_fr": "Nous sommes donc un dépôt chimique qui est différent."
+    },
+    {
+        "augmented_en": "Today, I want to talk to you about the future, but first I'll tell you a little bit about the past.",
+        "original_en": "Today I want to talk to you about the future, but first I'm going to tell you a bit about the past.",
+        "augmented_fr": "\"J'ai découvert cette passion près d'ici, en fait, quand j'avais 9 ans.",
+        "original_fr": "\"J'ai découvert cette passion près d'ici, en fait, lorsque j'avais 9 ans."
+    },
+    {
+        "augmented_en": "And somehow -- we don't really know the whole story -- but the train took the wrong path and went to a work camp rather than to the death camp.",
+        "original_en": "And somehow -- we don't really know exactly the whole story -- but the train took the wrong track and went to a work camp rather than the death camp.",
+        "augmented_fr": "Il faisait face à l'épidémie d'Ebola.",
+        "original_fr": "Il traitait de l'épidémie du virus Ebola."
+    },
+    {
+        "augmented_en": "My grandmother survived and married my grandfather.",
+        "original_en": "My grandmother survived and married my grandfather.",
+        "augmented_fr": "Et quelque chose m'a attiré dans ce livre.",
+        "original_fr": "Et quelque chose m'a juste attiré vers ce livre."
+    },
+    {
+        "augmented_en": "They got on a boat, and yet another divergence -- the boat was going either to Canada or Australia.",
+        "original_en": "They got on a boat, and yet another divergence -- the boat was either going to Canada or to Australia.",
+        "augmented_fr": "Je voulais être comme ces explorateurs dont ce livre parlait, qui allaient dans les jungles africaines, retournant dans leurs laboratoires de recherche et essayant de comprendre la nature de ce virus mortel.",
+        "original_fr": "Je voulais être comme ces explorateurs dont parlait ce livre, qui partaient dans les jungles africaines, revenaient dans leurs labos de recherche et tentaient de comprendre la nature de ce virus mortel."
+    },
+    {
+        "augmented_en": "My grandmother was a chemist.",
+        "original_en": "My grandmother was a chemist.",
+        "augmented_fr": "\"C'est seulement en entrant au lycée que je me suis dit, \"Peut-être maintenant -- en tant qu'élève du secondaire -- que je peux devenir une partie de ce monde médical formidable.\"",
+        "original_fr": "\"Ce n'est qu'en entrant au lycée que j'ai pensé, \"\"Peut-être que maintenant -- en tant qu'étudiante au lycée -- je peux devenir partie prenante dans ce grand monde médical.\"\""
+    },
+    {
+        "augmented_en": "My family was on a trip and we were in the Grand Canyon.",
+        "original_en": "My family was on a road trip and we were in the Grand Canyon.",
+        "augmented_fr": "Puis je suis allé parler à un professeur, le Dr Jacobs, qui m'a accepté dans son labo.",
+        "original_fr": "Puis je suis allée discuter avec un professeur, le Dr Jacobs, qui m'a acceptée dans son laboratoire."
+    },
+    {
+        "augmented_en": "I was a passive observer of the medical world.\"",
+        "original_en": "I was a passive observer of the medical world.\"",
+        "augmented_fr": "Alors j'ai pensé, \"Peut-être que si elle peut favoriser la croissance cellulaire, elle peut aussi inhiber la mort cellulaire.\"",
+        "original_fr": "Donc j'ai pensé, \"\"Peut-être si cela peut promouvoir la croissance cellulaire, cela peut également inhiber la mort cellulaire.\"\""
+    },
+    {
+        "augmented_en": "But I had heard that cancer was the most feared disease of our time, so how did the good and bad go together?",
+        "original_en": "But I'd heard of cancer as the most feared disease of our time, so how did the good and bad go together?",
+        "augmented_fr": "Et le corps voit que le tissu pulmonaire est endommagé, et dit que nous devons réparer le poumon.",
+        "original_fr": "Et le corps voit que le tissu pulmonaire est endommagé, et dit il faut réparer le poumon."
+    },
+    {
+        "augmented_en": "Last summer, I worked at Stanford University, doing research on cancer stem cells.",
+        "original_en": "Last summer I worked at Stanford University, doing some research on cancer stem cells.",
+        "augmented_fr": "Et le cancer commence dans ce poumon qui essaie de se réparer -- parce qu'il y a cette prolifération excessive de ces cellules remarquables qui peuvent devenir des tissus pulmonaires.",
+        "original_fr": "Et le cancer débute dans ce poumon qui essaie de se réparer -- car il y a cette prolifération excessive de ces cellules remarquables qui peuvent devenir du tissu pulmonaire."
+    },
+    {
+        "augmented_en": "That's what metastasis is.",
+        "original_en": "That's what a metastasis is.",
+        "augmented_fr": "Cela signifie que les cellules musculaires ne sont plus divisées, et donc elles ne sont pas une bonne cible pour le cancer.",
+        "original_fr": "Cela signifie que les cellules musculaires ne se divisent plus, et que par conséquent elle ne sont pas une bonne cible pour le cancer."
+    },
+    {
+        "augmented_en": "And the first thing that makes me think is that blood vessels are like highways for tumor cells.",
+        "original_en": "And the first thing that makes me think is that blood vessels are like highways for the tumor cells.",
+        "augmented_fr": "On bouge nos muscles tout le temps.",
+        "original_fr": "Nous bougeons tout le temps nos muscles."
+    },
+    {
+        "augmented_en": "And I hate to say that.",
+        "original_en": "And I hate to say that.",
+        "augmented_fr": "La limite de 18 minutes est absolument brutale, donc je vais attaquer mon sujet en ce moment, sans tourner autour du pot, dès que j'aurai ce truc à travailler.",
+        "original_fr": "La limite de 18 minutes est absolument brutale, je vais donc attaquer mon sujet tout de suite, sans tourner autour du pot, aussitôt que j'arriverai à faire marcher ce truc."
+    },
+    {
+        "augmented_en": "So I'm gonna start with why we should.",
+        "original_en": "So I'm going to start with why we should.",
+        "augmented_fr": "\"Maintenant, surtout en Grande-Bretagne, j'aime faire une comparaison avec la chasse au renard, qui est quelque chose qui a été interdit après une longue lutte, par le gouvernement il y a seulement quelques mois.",
+        "original_fr": "\"Maintenant, surtout en Grande Bretagne, j'aime devant un public faire une comparaison avec la chasse au renard, qui est quelque chose qui a été interdit après une longue lutte, par le gouvernement il y a seulement quelques mois."
+    },
+    {
+        "augmented_en": "Hands up: someone in the public who doesn't know if malaria is a good or a bad thing?",
+        "original_en": "Hands up: anyone in the audience who's not sure whether malaria is a good thing or a bad thing?",
+        "augmented_fr": "Mais finalement, le gouvernement a gagné, parce que la majorité de la population britannique, et certainement la majorité des parlementaires, a conclu que c'était vraiment quelque chose qu'une société civilisée ne peut pas tolérer. »",
+        "original_fr": "Mais finalement, le gouvernement l'a emporté, parce que la majorité du public britannique, et certainement la majorité des parlementaires, a conclu qu'il sagissait là vraiment de quelque chose qu'une société civilisée ne peut se permettre de tolérer.\""
+    },
+    {
+        "augmented_en": "What people don't understand?",
+        "original_en": "What part of this do people not understand?",
+        "augmented_fr": "« Eh bien, il y a un argument que certaines personnes considèrent comme vraiment très fort et voilà.",
+        "original_fr": "\"Bon, il y a un argument que certains considèrent comme vraiment très fort et le voici."
+    },
+    {
+        "augmented_en": "So really, that's how I'd like to describe it.",
+        "original_en": "So really, this is how I would like to describe it.",
+        "augmented_fr": "Et par conséquent, nous ne serons pas en mesure d'avoir beaucoup d'enfants, et les enfants sont super importants pour la plupart des gens.\"",
+        "original_fr": "Et par conséquent, nous ne pourrons pas avoir beaucoup d'enfants, et les enfants sont super importants pour la plupart des gens.\"\""
+    },
+    {
+        "augmented_en": "We will have to decide whether there is a low birth rate or a high mortality rate.",
+        "original_en": "We will have to decide whether to have a low birth rate, or a high death rate.",
+        "augmented_fr": "Et dès que l'inévitabilité devient un peu moins évidente, et que nous abordons la possibilité de faire quelque chose à ce sujet, cette attitude fait partie du problème.",
+        "original_fr": "Et dès que le caractère inévitable devient un peu moins évident, et que nous approchons de la possibilité d'en faire quelque chose, cette attitude fait partie du problème."
+    },
+    {
+        "augmented_en": "A high mortality rate will, of course, result from the mere rejection of these therapies, in favour of continuing to have many children.\"",
+        "original_en": "A high death rate will, of course, arise from simply rejecting these therapies, in favor of carrying on having a lot of kids.\"",
+        "augmented_fr": "Cette transe en faveur du vieillissement nous empêche d'avancer sur ces questions.",
+        "original_fr": "Cette transe en faveur du vieillissement c'est ce qui nous empêche de nous remuer sur ces questions."
+    },
+    {
+        "augmented_en": "Incremental progress has added something that is no longer incremental.",
+        "original_en": "The incremental advances have added up to something which is not incremental anymore.",
+        "augmented_fr": "Je dis que la vitesse à laquelle ces thérapies s'amélioreront sera suffisante.",
+        "original_fr": "Je dis que la vitesse à laquelle ces thérapies vont s'améliorer sera suffisante."
+    },
+    {
+        "augmented_en": "Computers: you can look at a more or less parallel time line, occurring of course a little later.",
+        "original_en": "Computers: you can look at a more or less parallel time line, happening of course a bit later.",
+        "augmented_fr": "J'ai décidé de nommer ce concept, et c'est \"la vitesse d'échappement de la longévité\".",
+        "original_fr": "J'ai décidé de donner un nom à ce concept, et c'est \"\"la vitesse d'échappement de la longévité.\"\""
+    },
+    {
+        "augmented_en": "(Laughs) Well, he seems to pass the point.\"",
+        "original_en": "(Laughter) Well, it seems to get the point across.\"",
+        "augmented_fr": "Et c'est à propos de ça.",
+        "original_fr": "Et il s'agit de ceci."
+    },
+    {
+        "augmented_en": "You won't be able to resist them.",
+        "original_en": "You won't be able to withstand them.",
+        "augmented_fr": "On ne leur fait rien tant qu'ils n'ont pas trois ans.",
+        "original_fr": "On ne leur fait rien avant qu'elles aient trois ans."
+    },
+    {
+        "augmented_en": "And it's good because it means it's not a lost battle, and it's something we're within reach to do, because it doesn't involve improving on evolution.",
+        "original_en": "And that's good because it means that it's not a losing battle, and it's something that we are within range of being able to do, because it doesn't involve improving on evolution.",
+        "augmented_fr": "Perte de cellules, mutations dans les chromosomes, mutations dans les mitochondries, etc.",
+        "original_fr": "Perte de cellules, mutations dans les chromosomes, mutations dans les mitochondies et ainsi de suite."
+    },
+    {
+        "augmented_en": "\"First of all, I would like to explain why this list is complete.",
+        "original_en": "\"First of all, I'd like to give you an argument for why that list is complete.",
+        "augmented_fr": "Ce sont les détails qui me font confiance pour les délais assez courts que je planifie ici.",
+        "original_fr": "Ce sont les détails qui me rendent confiant pour les lignes de temps plutôt courtes que je prévois ici."
+    },
+    {
+        "augmented_en": "Of course, we can make a biological argument.",
+        "original_en": "Of course one can make a biological argument.",
+        "augmented_fr": "Donc si vous pensez que j'ai tort, alors, mince, vous devez découvrir pourquoi vous pensez que j'ai tort.\"",
+        "original_fr": "Alors si vous pensez que je me trompe, alors, mince, il faut bien que vous alliez découvrir pourquoi vous pensez que j'ai tort.\""
+    },
+    {
+        "augmented_en": "Audience: The species of this planet have evolved with the immune system to fight all diseases so that individuals live long enough to procreate.",
+        "original_en": "Audience: Species on this planet have evolved with immune systems to fight off all the diseases so that individuals live long enough to procreate.",
+        "augmented_fr": "Est-ce que ça veut dire que je suis l'un de vos candidats pour atteindre 1000 ans?",
+        "original_fr": "Cela veut-il dire que je suis un de vos candidats pour atteindre 1.000 ans?"
+    },
+    {
+        "augmented_en": "Rich countries have been sending aid to poor countries for 60 years.",
+        "original_en": "Rich countries have been sending aid to poor countries for the last 60 years.",
+        "augmented_fr": "Parce qu'ils l'ont géré de l'étranger.",
+        "original_fr": "Parce qu'ils le gérait depuis l'étranger."
+    },
+    {
+        "augmented_en": "Overall, it didn't work.",
+        "original_en": "By and large, it did not work.",
+        "augmented_fr": "Parce que l'argent de l'aide et du pétrole ou des minéraux fonctionne de la même manière.",
+        "original_fr": "Parce que l'argent de l'aide et du pétrole ou des minerais agit de la même façon."
+    },
+    {
+        "augmented_en": "So the question is, why is it?",
+        "original_en": "So the question is, why is that?",
+        "augmented_fr": "Il renforce les gouvernements, sans prendre en compte les citoyens -- leurs mains, leurs jambes, leurs cerveaux, ainsi de suite.",
+        "original_fr": "Il renforce les gouvernements, sans prendre en compte les citoyens -- leurs mains, jambes, cerveaux, ainsi de suite."
+    },
+    {
+        "augmented_en": "So my view is that there are many struggles in Europe, where citizens have been empowered by technology.",
+        "original_en": "So my point is, there's a lot of struggle has gone in Europe, where citizens were empowered by technologies.",
+        "augmented_fr": "Et c'est le vrai effet réseau.",
+        "original_fr": "Et c'est cela l'effet réseau réel."
+    },
+    {
+        "augmented_en": "And they asked the authorities to come down from their high horses.",
+        "original_en": "And they demanded authorities from -- to come down from their high horses.",
+        "augmented_fr": "Si les citoyens peuvent établir des réseaux, s'organiser et se rendre plus productifs, afin que leurs voix soient entendues, alors les choses peuvent s'améliorer.",
+        "original_fr": "Si les citoyens peuvent travailler en réseau, s'organiser et se rendre plus productifs, de sorte que leurs voix soient entendues, alors les choses pourront s'améliorer."
+    },
+    {
+        "augmented_en": "Because they got it from abroad.",
+        "original_en": "Because they were getting it from abroad.",
+        "augmented_fr": "Récemment, The Economist l'a reconnu, mais cette idée m'est venue il y a 12 ans, et c'est ce sur quoi j'ai travaillé.",
+        "original_fr": "Récemment, The Economist a reconnu cela, mais cette idée m'est venue il y a 12 ans, et c'est ce sur quoi j'ai travaillé."
+    },
+    {
+        "augmented_en": "And that's the perspective I have, and then I can start my story.",
+        "original_en": "And that is the perspective I have, and then I can start my story.",
+        "augmented_fr": "J'ai donc eu un autre jour improductif.\"",
+        "original_fr": "J'ai donc eu une autre journée improductive.\""
+    },
+    {
+        "augmented_en": "There was a war in my country.",
+        "original_en": "There was a war going on in my country.",
+        "augmented_fr": "Donc, si vous perdez cette précieuse ressource, qui est à peu près la même dans les pays riches, c'est un énorme gachis.",
+        "original_fr": "Donc, si vous perdez cette précieuse ressource, qui est à peu près la même dans les pays riches, c'est un énorme gachis."
+    },
+    {
+        "augmented_en": "And all these phones were in the few urban places.",
+        "original_en": "And all those phones were in the few urban places.",
+        "augmented_fr": "Il s'avère que ça coûte 2 000 $.",
+        "original_fr": "Il s'avère que celà coûte 2 000 dollars."
+    },
+    {
+        "augmented_en": "So imagine how many man-months or man-years are wasted, like I wasted a day.",
+        "original_en": "So just imagine how many man-months or man-years are wasted, just like I wasted a day.",
+        "augmented_fr": "Et s'il gagne 5 000 $ par an, c'est le dernier 50 000 $.",
+        "original_fr": "Et s'il rapporte 5 000 dollars par an -- cela rapporte au final 50 000 dollars."
+    },
+    {
+        "augmented_en": "Let's just say I'm a fisherman and a farmer.",
+        "original_en": "Let's say I'm a fisherman and a farmer.",
+        "augmented_fr": "Aux États-Unis, les gens achètent des voitures, et ils investissent très peu d'argent.",
+        "original_fr": "Je veux dire, aux Etats-Unis, les gens achètent des voitures, et ils y investissent très peu d'argent."
+    },
+    {
+        "augmented_en": "But to extend this, you need a river, or you need a highway, or you need telephone lines.",
+        "original_en": "But in order to expand that, you need a river, or you need a highway, or you need telephone lines.",
+        "augmented_fr": "Donc la question est, pourquoi ne pouvons-nous pas avoir une sorte d'accès partagé?",
+        "original_fr": "Alors la question est, pourquoi ne pouvons-nous avoir une sorte d'accès partagé?"
+    },
+    {
+        "augmented_en": "So if the phone is a production tool, then we don't really have to worry about purchasing power.",
+        "original_en": "So if the telephone is a production tool, then we don't quite have to worry about the purchasing power.",
+        "augmented_fr": "Par exemple, nous n'avions pas de chèques bancaires, peu de banques pour percevoir des factures, etc...",
+        "original_fr": "Par exemple, nous n'avions pas de chèques bancaires, peu de banques pour récupérer les factures, etc...."
+    },
+    {
+        "augmented_en": "But again, it's very paternalistic.",
+        "original_en": "But again, it's very paternalistic.",
+        "augmented_fr": "Et donc ils n'avaient aucun intérêt à relier leurs succursales, et alors, quel est le problème?\"",
+        "original_fr": "Et ils n'avaient donc aucun intérêt à connecter leurs succursales, et alors, que vogue la galère.\""
+    },
+    {
+        "augmented_en": "But that's what's missing in a poor country.",
+        "original_en": "But that's what's lacking in a poor country.",
+        "augmented_fr": "Et c'est une entreprise pour elle, mais c'est du lait pour tout le monde.",
+        "original_fr": "Et c'est une entreprise pour elle, mais c'est du lait pour tout le monde."
+    },
+    {
+        "augmented_en": "I thought I could put cell towers and create a network.",
+        "original_en": "I thought I could put cell towers and create a network.",
+        "augmented_fr": "Et c'est une affaire pour elle.",
+        "original_fr": "Et c'est une affaire pour elle."
+    },
+    {
+        "augmented_en": "What are they really doing?",
+        "original_en": "What is it that they really do?",
+        "augmented_fr": "J'ai pris l'avion pour aller partout dans le monde.",
+        "original_fr": "J'ai pris l'avion pour aller dans le monde entier."
+    },
+    {
+        "augmented_en": "And it's a matter for her, but it's milk for everyone.",
+        "original_en": "And this is a business for her, but it's milk for everybody else.",
+        "augmented_fr": "Même au Bangladesh, il y a des espaces vides.",
+        "original_fr": "Même au Bangladesh, il y a des espaces vides."
+    },
+    {
+        "augmented_en": "Because she could borrow $200 from the bank, take a phone and get the phone for everyone.",
+        "original_en": "Because some way she could borrow 200 dollars from the bank, get a phone and have the phone for everybody.",
+        "augmented_fr": "À propos du modèle de vache dont je t'ai parlé.",
+        "original_fr": "Maintenant, à propos de ce modèle de vache dont je vous ai parlé."
+    },
+    {
+        "augmented_en": "And it serves 52,000 villages, which represent about 80 million people.",
+        "original_en": "And it's serving 52,000 villages, which represent about 80 million people.",
+        "augmented_fr": "\"Les pauvres sont bénéficiaires de l'aide.\"",
+        "original_fr": "\"\"Les pauvres sont des bénéficiaires d'aides.\"\""
+    },
+    {
+        "augmented_en": "And of course, it's very beneficial in many ways.",
+        "original_en": "And of course, it's very beneficial in a lot of ways.",
+        "augmented_fr": "Leur participation réduit les coûts.",
+        "original_fr": "Leur participation réduit les coûts."
+    },
+    {
+        "augmented_en": "\"The poor are uneducated and can't do much.\"",
+        "original_en": "\"\"The poor are uneducated and cannot do much.\"\"",
+        "augmented_fr": "Mon nom est Ben Saunders.",
+        "original_fr": "Mon nom est Ben Saunders."
+    },
+    {
+        "augmented_en": "It's just an experiment.",
+        "original_en": "It's just an experiment.",
+        "augmented_fr": "J'ai skié l'équivalent de 31 marathons aller-retour.",
+        "original_fr": "J'ai skié l'équivalent de 31 marathons aller-retour."
+    },
+    {
+        "augmented_en": "Thank you.",
+        "original_en": "Thank you.",
+        "augmented_fr": "Et je tirais tous les aliments dont j'avais besoin, les fournitures, l'équipement, le sac de couchage, un sous-vêtement de rechange -- tout ce dont j'avais besoin pendant trois mois.",
+        "original_fr": "Et je tirais toute la nourriture dont j'avais besoin, les réserves, l'équipement, le sac de couchage, un caleçon de rechange -- tout ce dont j'avais besoin pour 3 mois."
+    },
+    {
+        "augmented_en": "And I was dragging all the food I needed, the supplies, the equipment, the sleeping bag, a change of underwear -- everything I needed for almost three months.",
+        "original_en": "And I was dragging all the food I needed, the supplies, the equipment, sleeping bag, one change of underwear -- everything I needed for nearly three months.",
+        "augmented_fr": "J'ai parlé à tous les experts.",
+        "original_fr": "J'avais parlé à tous les experts."
+    },
+    {
+        "augmented_en": "\"Ben, I read somewhere that at minus 40, the exposed skin becomes in less than a minute in frost, so how do you respond to the call of nature?\"",
+        "original_en": "\"\"Ben, I've read somewhere that at minus 40, exposed skin becomes frostbitten in less than a minute, so how do you answer the call of nature?\"\"",
+        "augmented_fr": "Peu de temps après, presque tout ce qui aurait pu mal tourner s'est mal passé.",
+        "original_fr": "Assez rapidement, à peu près tout ce qui aurait pu mal tourner, tourna mal."
+    },
+    {
+        "augmented_en": "And the thing that fascinates me about the North Pole, the geographic North Pole, is that it's a slap in the middle of the sea.",
+        "original_en": "And the thing that fascinates me about the North Pole, geographic North Pole, is that it's slap bang in the middle of the sea.",
+        "augmented_fr": "Vous voyez les deux bâtons du toit de la tente.",
+        "original_fr": "Vous voyez les deux bâtons dépassant du toit de la tente."
+    },
+    {
+        "augmented_en": "I clearly saw, I guess, being filmed by the door of a helicopter, there was, in a way, rock music playing in the background, and I had a ski stick with a Union Jack, you know, flying in the wind.",
+        "original_en": "I could see vividly, I suppose, being filmed out of the door of a helicopter, there was, kind of, rock music playing in the background, and I had a ski pole with a Union Jack, you know, flying in the wind.",
+        "augmented_fr": "Mon frère m'a envoyé un texto, c'est une citation des Simpson.",
+        "original_fr": "Mon frère m'a envoyé un SMS, c'est une citation des Simpson."
+    },
+    {
+        "augmented_en": "The second video clip I imagined was coming back to Heathrow Airport, and I could see again, brilliantly, the flashbulbs of the camera leaving, the paparazzi, autograph hunters, book agents coming to register me for a market.",
+        "original_en": "The second video clip that I imagined was getting back to Heathrow airport, and I could see again, vividly, the camera flashbulbs going off, the paparazzi, the autograph hunters, the book agents coming to sign me up for a deal.",
+        "augmented_fr": "Trois ans plus tard, je suis enfin sorti du canapé.",
+        "original_fr": "Trois ans après je me suis enfin levé du canapé."
+    },
+    {
+        "augmented_en": "\"And I came back to Heathrow.",
+        "original_en": "\"And I got back to Heathrow.",
+        "augmented_fr": "Deux Norvégiens l'ont fait en 2000.",
+        "original_fr": "Deux Norvégiens l'ont fait en 2000."
+    },
+    {
+        "augmented_en": "He said, \"You tried your hardest and failed lamentably.",
+        "original_en": "It said, \"\"You tried your hardest and failed miserably.",
+        "augmented_fr": "Des cameramen des logisticiens, ma petite amie, un photographe.",
+        "original_fr": "Des caméramen des logisticiens ma petite copine, un photographe."
+    },
+    {
+        "augmented_en": "So, for some reason, that's what I wanted to do, but I knew that even if I had a chance to go home in one piece, let alone go to Canada, I had to take a radical approach.",
+        "original_en": "So for some reason, this was what I wanted to have a crack at, but I knew that even to stand a chance of getting home in one piece, let alone make it across to Canada, I had to take a radical approach.",
+        "augmented_fr": "Nous avons eu 45 minutes débridées de tirs, et photo, quand l'hélicoptère était là.",
+        "original_fr": "On a eu 45 minutes effrénées de tournage, et de photo, quand l'hélicoptère était là."
+    },
+    {
+        "augmented_en": "We had a film crew, a few logistics people with us, my girlfriend, a photographer.",
+        "original_en": "We had a film crew, a couple of logistics people with us, my girlfriend, a photographer.",
+        "augmented_fr": "(Rires) Pour noircir l'image, vous voyez le point blanc en haut à droite; c'est la pleine lune.\"",
+        "original_fr": "(Rires) Pour noircir le tableau, vous voyez le point blanc, en haut à droite; c'est la pleine lune.\""
+    },
+    {
+        "augmented_en": "We couldn't move.",
+        "original_en": "We couldn't move.",
+        "augmented_fr": "Selon la Nasa, les conditions de glace étaient les pires jamais enregistrées.",
+        "original_fr": "D'après la Nasa les conditions de la glace ont été les pires jamais enregistrées."
+    },
+    {
+        "augmented_en": "All I could think about was going back to the door, knocking on the door, and saying, \"Look, guys, I didn't really think about it.\"",
+        "original_en": "All I could think about was running back up to the door, banging on the door, and saying, \"\"Look guys, I haven't quite thought this through.\"\"",
+        "augmented_fr": "Mon record était inférieur à quatre kilomètres.",
+        "original_fr": "Mon record a été de moins 4 kilomètres."
+    },
+    {
+        "augmented_en": "When the ice wasn't flat, I had no hope in hell.",
+        "original_en": "When the ice wasn't flat, I didn't have a hope in hell.",
+        "augmented_fr": "Mais l'absence de trous d'eau glacée.",
+        "original_fr": "Mais l'absence de glace-les trous d'eau."
+    },
+    {
+        "augmented_en": "The ice still drifts.",
+        "original_en": "The pack ice is always drifting.",
+        "augmented_fr": "Les ours polaires de l'Arctique se déplacent en ligne droite parfaite.",
+        "original_fr": "Les ours polaires en Arctique se déplacent en parfaite ligne droite."
+    },
+    {
+        "augmented_en": "and seal close enough around my face.",
+        "original_en": "and seal pretty tightly around my face.",
+        "augmented_fr": "Quand il y a beaucoup de brouillard, de nuages bas, de neige relevée par le vent.",
+        "original_fr": "Quand il y a beaucoup de brume, des nuages bas, la neige soulevée par le vent."
+    },
+    {
+        "augmented_en": "\"Another exciting thing we did last year was communications technology.",
+        "original_en": "\"Another exciting thing we did last year was with communications technology.",
+        "augmented_fr": "C'était un étrange mélange de haute technologie et de basse technologie.\"",
+        "original_fr": "C'était un mélange étrange de high tech et de low tech.\""
+    },
+    {
+        "augmented_en": "Orde-Lees guessed a bad eight years.",
+        "original_en": "Well, Orde-Lees guessed wrong by about eight years.",
+        "augmented_fr": "Il m'a fallu 68 jours pour l'atteindre de Russie, et il n'y a rien là-bas.",
+        "original_fr": "Ca m'a pris 68 jours pour l'atteindre depuis la Russie, et il n'y a rien là-bas."
+    },
+    {
+        "augmented_en": "You can see, there's a yellow ribbon attached to one of my ski sticks.",
+        "original_en": "You can just see, there's a yellow ribbon tied to one of my ski poles.",
+        "augmented_fr": "J'ai pris une photo.",
+        "original_fr": "J'ai pris une photo."
+    },
+    {
+        "augmented_en": "I'd sail in the direction of the wind.",
+        "original_en": "I'd navigate using the direction of the wind.",
+        "augmented_fr": "Je me suis assis sur mon traîneau.",
+        "original_fr": "Je me suis assis sur mon traineau."
+    },
+    {
+        "augmented_en": "It's a special feeling.",
+        "original_en": "It's a special feeling.",
+        "augmented_fr": "C'est la vue que j'avais dans ma tente, quand j'ai eu l'appel du destin.",
+        "original_fr": "Voilà la vue que j'avais ma tente, quand j'ai eu cet appel du destin."
+    },
+    {
+        "augmented_en": "(Laughter)",
+        "original_en": "(Laughter)",
+        "augmented_fr": "Je pensais qu'il le fallait.",
+        "original_fr": "Je me disais que ca devait le faire."
+    },
+    {
+        "augmented_en": "They were the least macho I've ever met, but they did my day.",
+        "original_en": "They were the least macho people I've ever met, but they made my day.",
+        "augmented_fr": "Nous avons rebondi sur la piste.",
+        "original_fr": "On a rebondi sur la piste."
+    },
+    {
+        "augmented_en": "And he -- I've now learned that it's a standard practice, but I was worried at the time.",
+        "original_en": "And he -- I've now learned that this is standard practice, but it had me worried at the time.",
+        "augmented_fr": "Bien sûr, lorsque vous êtes sur la glace, vous pouvez voir les obstacles un par un, qu'il s'agisse d'un pic de pression ou d'eau.",
+        "original_fr": "Bien sûr quand on est sur la glace, on voit les obstacles un par un, que ce soit une crête de pression ou de l'eau."
+    },
+    {
+        "augmented_en": "One of the skis just cut a peak of pressure at the end of the runway, lowering.",
+        "original_en": "One of the skis just clipped a pressure ridge at the end of the runway, banking.",
+        "augmented_fr": "C'est une occasion pour moi d'explorer mes limites -- de repousser les limites de mon potentiel, de voir jusqu'où elles vont.",
+        "original_fr": "C'est une chance pour moi d'explorer mes limites -- de reculer les limites de mon potentiel, voir jusqu'où elles vont."
+    },
+    {
+        "augmented_en": "And it's also about potential, on a personal level.",
+        "original_en": "And it's also about potential, on a personal level.",
+        "augmented_fr": "Et il y a cette course au pôle entre Amundsen, le Norvégien -- Amundsen était accompagné de chiens et de huskies -- et Scott, un britannique, le capitaine Scott.",
+        "original_fr": "Et il y a cette course vers le Pôle entre Amundsen, le Norvégien -- Amundsen était accompagné de chiens et de huskies -- et Scott, un britannique, Capitaine Scott."
+    },
+    {
+        "augmented_en": "Two of us do it.",
+        "original_en": "Two of us are doing it.",
+        "augmented_fr": "Et je pense vraiment qu'il ne suffit pas d'avoir des générations d'enfants qui pensent qu'il suffit d'attendre avec impatience la nouvelle version d'un téléphone mobile avec une fonctionnalité vidéo intégrée.",
+        "original_fr": "Et je pense vraiment que ça ne suffit pas d'avoir des générations de gamins qui pensent qu'il suffit d'attendre avec impatience la nouvelle version d'un téléphone portable avec une fonction vidéo intégrée."
+    },
+    {
+        "augmented_en": "50 years later?",
+        "original_en": "50 years later?",
+        "augmented_fr": "Et c'est pour ça qu'ils sont si sûrs, parce qu'on a les moyens de trouver ce qui était bon.",
+        "original_fr": "Et c'est pour ça qu'ils sont si sûrs, car on s'est donné les moyens de trouver ce qui était bon."
+    },
+    {
+        "augmented_en": "Of course, one of them is around the Voyager world.",
+        "original_en": "Of course, one of them is around the world Voyager.",
+        "augmented_fr": "\"C'est de la folie.",
+        "original_fr": "\"C'est insensé."
+    },
+    {
+        "augmented_en": "I founded another company in 1982, which is now my company.",
+        "original_en": "I founded another company in '82, which is my company now.",
+        "augmented_fr": "Parlons brièvement des cycles de l'innovation, des choses qui grandissent, vivent une activité importante, puis disparaissent et sont remplacées par autre chose.",
+        "original_fr": "Parlons brièvement des cycles d'innovation, des choses qui grandissent, connaissent une activité importante et ensuite s'effacent et sont remplacées par autre chose."
+    },
+    {
+        "augmented_en": "We abandoned him in 72.",
+        "original_en": "We abandoned it in '72.",
+        "augmented_fr": "Le secteur privé doit le faire.",
+        "original_fr": "Le secteur privé doit s'en charger."
+    },
+    {
+        "augmented_en": "40 years, with an overlap.",
+        "original_en": "40 years long, with an overlap.",
+        "augmented_fr": "En 2004, il n'avait que deux vols : deux vols russes vers Soyouz vers la Station Spatiale Internationale.",
+        "original_fr": "En 2004, il a seulement eu deux vols : deux vols russes sur Soyouz vers la Station Spatiale Internationale."
+    },
+    {
+        "augmented_en": "The interesting thing -- by the way, speed here, excuse me, high-speed travel is the title of these cycles of innovation.",
+        "original_en": "The interesting thing -- by the way, the speed here, excuse me, higher-speed travel is the title of these innovation cycles.",
+        "augmented_fr": "Il n'y a ni croissance, ni activité, ni rien.\"",
+        "original_fr": "Il n'y a pas de croissance, pas d'activité, rien du tout.\""
+    },
+    {
+        "augmented_en": "You don't want to run a business with this kind of security record.",
+        "original_en": "That's -- You don't want to run a business with that kind of a safety record.",
+        "augmented_fr": "\"Et c'est pour quoi?",
+        "original_fr": "\"\"Et ça sert à quoi ?"
+    },
+    {
+        "augmented_en": "And I used to be disturbed by that, and then I had to think, well, wait a minute.",
+        "original_en": "And I used to be bothered by that, and then I got to thinking, well, wait a minute.",
+        "augmented_fr": "Paul Allen, Elan Musk, Richard Branson, Jeff Bezos, la famille Ansari, qui finance maintenant les activités suborbitales russes, Bob Bigelow, une station spatiale privée, et Carmack.",
+        "original_fr": "Paul Allen, Elan Musk, Richard Branson, Jeff Bezos, la famille Ansari, qui finance maintenant les activités suborbitales russes, Bob Bigelow, une station spatiale privée, et Carmack."
+    },
+    {
+        "augmented_en": "Military fighters had a military aircraft of the highest performance, the SR71.",
+        "original_en": "The military fighters had a -- highest-performance military airplane was the SR71.",
+        "augmented_fr": "J'attends avec impatience la prochaine course capitaliste à l'espace.",
+        "original_fr": "J'attends vraiment avec impatience la prochaine course capitaliste vers l'espace."
+    }
+]
